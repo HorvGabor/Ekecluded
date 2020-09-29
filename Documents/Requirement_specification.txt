@@ -24,6 +24,13 @@ lévő nyilak segítségével hajtható végre. A pályán néhány akadály is 
 
 3. Vágyálom rendszer
 
+	A rendszerbe szeretnénk egy igényesen kidolgozott grafikát megvalósítani, hogy ezzel
+	erősítsük a felhasználói élményeket. Egy pontrendszert is szeretnénk megvalósítani a 
+	a rendszeren belűl, amely segítségével a felhasználók nyomon tudják követni a 
+	rendszer használata során elért maximális pontszámot, illetve a legnagyobb elért 
+	pontszámot. A redszer megvalósítása során szeretnénk létrehozni egy felhasználó 
+	barát menü felületet megvalósítani, amelyben könnyű a navigáció.
+
 4. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
 
 	Webes aplikációként a következő szabványok vonatkoznak ránk.
